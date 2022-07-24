@@ -1,0 +1,15 @@
+/*
+style.css
+-----------
+Par Vanes
+*/
+h2
+{
+    color: blue; /* couleur bleu pour les gros titre */
+}
+p
+{
+    font-size: 1.3em;
+    font-family: Impact, "Arial Black", Arial, Helvetica, sans-serif;
+    text-align: right;
+}
